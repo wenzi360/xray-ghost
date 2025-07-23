@@ -17,4 +17,4 @@
 
 
 解压后将本脚本解压到xray的目录内，结构目录如下：
-![example-image](images/jg.png)
+![example-image]([images/jg.png](https://github.com/wenzi360/xray-ghost/blob/main/img/jg.png?raw=true))
