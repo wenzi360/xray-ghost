@@ -20,3 +20,5 @@
 
 
 ![img](https://github.com/wenzi360/xray-ghost/blob/main/img/jg.png)
+
+改好json文件后 双击启动即可，json支持V2rayN导出的配置
